@@ -3,6 +3,7 @@ This code repository contains a list of examples to support Object Oriented conc
     1. Encapsulation
     2. Inheritance
     3. Polymorphism
+    4. Composition
 
 Check your JS skills by attempting these questions. Feel free to try these out on the browser console.
 
