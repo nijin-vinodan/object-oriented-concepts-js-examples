@@ -1,7 +1,7 @@
 /** 
  * OOPS Concept: Polymorphism
  * Polymorphism helps to design objects in a way that can share or override any behaviour with the specified provided objects.
- * Poly : Many; Morph : Forms
+ * Poly means "Many" and Morph means "Forms". i.e an object can take up many forms.
  * Takes advantages of inheritance
  
     In a strongly typed language, like Java, if Square and Circle are extending Shape, then we could create objects this way
