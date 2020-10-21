@@ -22,6 +22,7 @@ class Shape {
     }
 }
 
+// Circle inherits Shape
 class Circle extends Shape {
     constructor(radius) {
         super();
@@ -33,6 +34,7 @@ class Circle extends Shape {
     }
 }
 
+// Square inherits Shape
 class Square extends Shape {
     constructor(side) {
         super();
